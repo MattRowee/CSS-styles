@@ -1,0 +1,18 @@
+
+
+.pageHeader {
+    text-emphasis: bolder;
+    display: flex;
+    justify-content: center;
+    margin: 30px
+}
+.shop{
+    display: flex;
+    justify-content: space-evenly
+}
+article{
+    display:flex;
+    flex-flow: row wrap;
+    align-content: flex-start
+}
+
